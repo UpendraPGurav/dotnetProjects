@@ -1,0 +1,12 @@
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\bin\Debug\net6.0\Ecommerce.Models.deps.json
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\bin\Debug\net6.0\Ecommerce.Models.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\bin\Debug\net6.0\Ecommerce.Models.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.AssemblyInfoInputs.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.AssemblyInfo.cs
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\refint\Ecommerce.Models.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\ref\Ecommerce.Models.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Models\obj\Debug\net6.0\Ecommerce.Models.csproj.AssemblyReference.cache

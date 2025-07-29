@@ -1,0 +1,17 @@
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.deps.json
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.runtimeconfig.json
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Models.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Models.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.AssemblyReference.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfoInputs.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfo.cs
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.CoreCompileInputs.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerc.17EFF45D.Up2Date
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\refint\Ecommerce.Data.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.genruntimeconfig.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Data\obj\Debug\net6.0\ref\Ecommerce.Data.dll

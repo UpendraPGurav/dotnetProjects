@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Ecommerce.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Ecommerce.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Ecommerce.API.csproj",
+        "projectName": "Ecommerce.API",
+        "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Ecommerce.API.csproj",
+        "packagesPath": "C:\\Users\\gurav\\.nuget\\packages\\",
+        "outputPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj"
+              },
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj"
+              },
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Ecommerce.Services.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Ecommerce.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.27.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj",
+        "projectName": "Ecommerce.Data",
+        "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj",
+        "packagesPath": "C:\\Users\\gurav\\.nuget\\packages\\",
+        "outputPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj",
+        "projectName": "Ecommerce.Models",
+        "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj",
+        "packagesPath": "C:\\Users\\gurav\\.nuget\\packages\\",
+        "outputPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj",
+        "projectName": "Ecommerce.Repo",
+        "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj",
+        "packagesPath": "C:\\Users\\gurav\\.nuget\\packages\\",
+        "outputPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\Ecommerce.Data.csproj"
+              },
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Ecommerce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Ecommerce.Services.csproj",
+        "projectName": "Ecommerce.Services",
+        "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Ecommerce.Services.csproj",
+        "packagesPath": "C:\\Users\\gurav\\.nuget\\packages\\",
+        "outputPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj"
+              },
+              "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj": {
+                "projectPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Repo\\Ecommerce.Repo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.27.6, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

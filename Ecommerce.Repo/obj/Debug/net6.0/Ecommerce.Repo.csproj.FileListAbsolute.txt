@@ -1,0 +1,17 @@
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.deps.json
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.AssemblyInfoInputs.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.AssemblyInfo.cs
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.csproj.CoreCompileInputs.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\refint\Ecommerce.Repo.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\ref\Ecommerce.Repo.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Data.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Models.dll
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Data.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Models.pdb
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.csproj.AssemblyReference.cache
+E:\Sysfore training\Dotnet\Ecommerce.API\Ecommerce.Repo\obj\Debug\net6.0\Ecommerc.6ACC504F.Up2Date

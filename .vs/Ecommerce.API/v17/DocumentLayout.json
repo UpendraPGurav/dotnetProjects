@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC3414-E9CD-4149-8677-438FA3D6774F}|Ecommerce.Services\\Ecommerce.Services.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.services\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC3414-E9CD-4149-8677-438FA3D6774F}|Ecommerce.Services\\Ecommerce.Services.csproj|solutionrelative:ecommerce.services\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36C9F6C-F55D-40DB-86DC-99FF96CD2166}|Ecommerce.Data\\Ecommerce.Data.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36C9F6C-F55D-40DB-86DC-99FF96CD2166}|Ecommerce.Data\\Ecommerce.Data.csproj|solutionrelative:ecommerce.data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BA5226-938F-4595-9542-6F554C73E61F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.models\\ecommerce.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92550810-D239-4200-A2DE-2FD60E45AC75}|Ecommerce.Models\\Ecommerce.Models.csproj|solutionrelative:ecommerce.models\\ecommerce.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC3414-E9CD-4149-8677-438FA3D6774F}|Ecommerce.Services\\Ecommerce.Services.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC3414-E9CD-4149-8677-438FA3D6774F}|Ecommerce.Services\\Ecommerce.Services.csproj|solutionrelative:ecommerce.services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC3414-E9CD-4149-8677-438FA3D6774F}|Ecommerce.Services\\Ecommerce.Services.csproj|e:\\sysfore training\\dotnet\\ecommerce.api\\ecommerce.services\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC3414-E9CD-4149-8677-438FA3D6774F}|Ecommerce.Services\\Ecommerce.Services.csproj|solutionrelative:ecommerce.services\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Services\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Services\\Services\\CloudinaryService.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Services\\CloudinaryService.cs",
+              "RelativeToolTip": "Ecommerce.Services\\Services\\CloudinaryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:46:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Mapping\\MappingProfile.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Ecommerce.API\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:32:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Data\\EcommerceDbContext.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Data\\EcommerceDbContext.cs",
+              "RelativeToolTip": "Ecommerce.Data\\EcommerceDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBEwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:31:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Services\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Services\\ProductService.cs",
+              "RelativeToolTip": "Ecommerce.Services\\Services\\ProductService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:29:14.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Services\\Services\\CustomerService.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Services\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Ecommerce.Services\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIBAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:29:01.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\OrderItem.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\OrderItem.cs",
+              "RelativeToolTip": "Ecommerce.Models\\OrderItem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:28:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\DTOs\\OrderDto.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Ecommerce.Models\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:28:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA9wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:20:38.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\DTOs\\CustomerDto.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "Ecommerce.Models\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABCwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:05:57.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\Customer.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Customer.cs",
+              "RelativeToolTip": "Ecommerce.Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:05:36.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.API\\appsettings.json",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\appsettings.json",
+              "RelativeToolTip": "Ecommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T06:48:28.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\Order.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Order.cs",
+              "RelativeToolTip": "Ecommerce.Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:37:28.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ecommerce.Models.csproj",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\Ecommerce.Models.csproj",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\Ecommerce.Models.csproj",
+              "RelativeToolTip": "Ecommerce.Models\\Ecommerce.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T05:37:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA+wFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:06:42.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.API\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwEUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:51:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "E:\\Sysfore training\\Dotnet\\Ecommerce.API\\Ecommerce.Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Ecommerce.Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA/wBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:50:37.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
